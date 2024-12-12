@@ -1,0 +1,27 @@
+.container{
+    width: 100%;
+    background-color: #fafafa;
+    overflow: hidden;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.p-2{
+    padding: .5rem;
+}
+
+.my-2{
+    margin: .5rem 0;
+}
+
+.subtitle{
+    font-weight: 800;
+    color: #212121;
+}
+
+
+.text-gray{
+    color: #606060;
+}
