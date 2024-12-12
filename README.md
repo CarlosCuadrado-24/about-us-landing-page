@@ -27,3 +27,15 @@ https://github.com/CarlosCuadrado-24/musical-instruments-landing-page.git
 ## Agradecimientos
 
 Coach **Sherilyn Maestre** Coach **Larry Ramirez** 
+
+Graph Erika:
+[![graph-erika.png](https://i.postimg.cc/JzLXCZYz/graph-erika.png)](https://postimg.cc/qz1q8hdP)
+
+Graph Manuel:
+[![git-graph.png](https://i.postimg.cc/nccj0PQm/git-graph.png)](https://postimg.cc/YjZCS8R2)
+
+Graph Carlos:
+[![graph-carlitos.png](https://i.postimg.cc/8cv7qzhv/graph-carlitos.png)](https://postimg.cc/ZvTYNZsY)
+
+
+
