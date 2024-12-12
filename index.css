@@ -1,0 +1,50 @@
+.container{
+    width: 100%;
+    background-color: #fafafa;
+    overflow: hidden;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.p-2{
+    padding: .5rem;
+}
+
+.my-2{
+    margin: .5rem 0;
+}
+
+.subtitle{
+    font-weight: 800;
+    color: #212121;
+}
+
+
+.text-gray{
+    color: #606060;
+}
+
+.grid-container{
+    display: grid;
+}
+
+.col-2{
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 1;
+    gap: 18px;
+}
+.image-container{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+
+.image{
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    
+}
